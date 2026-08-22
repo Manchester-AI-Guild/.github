@@ -11,10 +11,9 @@ This repo is the org-level configuration layer for:
 - security reporting and repo hygiene defaults
 - shared org-level documentation and references
 
-## Related repositories
+## Main repository
 
-- [manchester-ai-guild](https://github.com/Manchester-AI-Guild/manchester-ai-guild)
-- [manchester-ai-guild-operations](https://github.com/Manchester-AI-Guild/manchester-ai-guild-operations)
+- [manchester-ai-guild](https://github.com/Manchester-AI-Guild/manchester-ai-guild) - Public projects, working groups, and community collaboration
 
 ## Security and governance
 
