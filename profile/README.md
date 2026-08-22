@@ -1,42 +1,44 @@
 # Manchester AI Guild
 
-Our goal is to build a practical, collaborative governance and delivery ecosystem that helps Manchester-region founders, operators, researchers, and institutions onboard, build, and scale AI solutions in a safe, trustworthy, commercially valuable, and compliant way.
+The Manchester AI Guild brings together practitioners, founders, researchers, public-sector teams, and ecosystem partners to help organisations adopt AI with confidence.
 
-## Why this exists
+## Mission
 
-AI is creating major opportunity across startup, enterprise, public sector, and academia. It is also introducing risk, uncertainty, and uneven capability. Manchester AI Guild exists to close that gap by combining practical implementation, governance rigor, and ecosystem coordination.
+We help Greater Manchester and the wider North West turn AI from hype into practical value. Our focus is on connecting people who need support with people who can help them move from speculation to safe, useful implementation.
+
+## What we do
+
+- support SMEs and regional organisations on practical AI adoption
+- connect researchers, builders, and operators with real delivery needs
+- encourage pragmatic governance, risk awareness, and measurable outcomes
+- turn discussion into execution through working groups, projects, and pilots
+
+## Why this matters
+
+Many organisations want to adopt AI but do not yet have the internal capability, confidence, or resources to do it well. The Guild exists to make that transition more practical, safer, and more useful.
 
 ## Focus areas
 
-- **Responsible AI for SMEs**: practical controls, threat-model-informed safeguards, and governance accelerators.
-- **Sovereign AI pathways**: private model, on-prem, and regional data approaches for high-trust deployments.
-- **Incubator and venture outcomes**: founder support, mentor networks, and investor connectivity.
-- **Ecosystem alignment**: coordinated action across meetups, universities, public agencies, and industry bodies.
+- practical AI adoption for SMEs and regional organisations
+- governance and responsible implementation
+- ecosystem collaboration across industry, academia, and public-sector partners
+- member-led projects, pilots, and shared learning
 
 ## Working model
 
-- Use-case-led working sessions
-- Time-boxed working groups
-- Action-owner accountability
-- Open documentation and reproducible artefacts
+- use-case-led working sessions
+- clear action ownership
+- shared documentation and reproducible artefacts
+- governance grounded in delivery reality rather than hype
 
-## Core repositories
+## Related repositories
 
-- **manchester-ai-guild**: primary charter, governance, roadmap, and public Pages site.
-- **guild-operations** (optional): internal operational runbooks, private minutes, and delivery workflows.
-
-## Participation channels
-
-- Working sessions and agenda-led discussions
-- Project issues and milestones
-- Community events and partner meetups
+- [manchester-ai-guild](https://github.com/Manchester-AI-Guild/manchester-ai-guild): public mission, governance, and community-facing work
+- [manchester-ai-guild-operations](https://github.com/Manchester-AI-Guild/manchester-ai-guild-operations): private operational planning and member-only coordination
 
 ## Join and contribute
 
-If you want to contribute:
+We welcome collaboration from people who want to help build practical, useful AI capability across the region.
 
-1. Open an issue in the core repository.
-2. Join relevant working-stream labels.
-3. Participate in weekly or bi-weekly coordination sessions.
-4. Submit practical templates, controls, or implementation examples.
+For public work, see the linked repositories and open issues. For private operational planning, details remain in the private operations repository for approved Guild members.
 

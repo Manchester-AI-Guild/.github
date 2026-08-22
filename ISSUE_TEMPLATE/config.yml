@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security vulnerability report
+    url: https://github.com/Manchester-AI-Guild/.github/security/advisories
+    about: Report a security issue privately and responsibly.
+  - name: Guild operations and membership questions
+    url: https://github.com/Manchester-AI-Guild/manchester-ai-guild-operations/issues
+    about: Ask questions about private operational work, governance, or member coordination.
