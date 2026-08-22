@@ -31,14 +31,15 @@ Many organisations want to adopt AI but do not yet have the internal capability,
 - shared documentation and reproducible artefacts
 - governance grounded in delivery reality rather than hype
 
-## Related repositories
+## Public and private work
 
-- [manchester-ai-guild](https://github.com/Manchester-AI-Guild/manchester-ai-guild): public mission, governance, and community-facing work
-- [manchester-ai-guild-operations](https://github.com/Manchester-AI-Guild/manchester-ai-guild-operations): private operational planning and member-only coordination
+The Guild maintains a clear separation between public-facing work and private operational coordination.
+
+Public repositories are used for mission, governance, community-facing updates, and open collaboration. Internal planning, member-only coordination, and sensitive operational work remain in a private, invite-only space for approved members.
 
 ## Join and contribute
 
 We welcome collaboration from people who want to help build practical, useful AI capability across the region.
 
-For public work, see the linked repositories and open issues. For private operational planning, details remain in the private operations repository for approved Guild members.
+For public work, see the linked repositories and open issues. Internal operational planning remains restricted to approved Guild members and is not published publicly.
 
