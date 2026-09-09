@@ -2,27 +2,41 @@
 
 ## Our pledge
 
-We as members, contributors, and leaders pledge to make participation in the Manchester AI Guild a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+As members, contributors and leaders of the **Manchester AI Guild**, we commit to building an open, respectful and supportive community where people can learn, contribute, collaborate and grow.
+We welcome different backgrounds, experiences, perspectives and levels of expertise. We will treat one another with dignity, challenge ideas constructively, share knowledge generously, and create an environment where everyone can participate without harassment, discrimination or exclusion.
+Together, we commit to strengthen and leverage Manchester’s AI ecosystem by developing people, supporting responsible innovation, and helping organisations use AI in ways that are practical, sustainable, secure and beneficial to society.
+**Manchester AI Guild**: Build capability. Create opportunity. Grow prosperity. Love people.
 
 ## Our standards
 
-Examples of behaviour that contributes to a positive environment include:
+**Examples of behaviour that strengthens the Guild include:**
 
-- being respectful and constructive
-- giving and gracefully accepting feedback
-- focusing on practical outcomes and useful collaboration
-- helping others succeed and learn
+Treating others with respect, generosity and professional courtesy
+Challenging ideas constructively, while respecting the people behind them
+Giving constructive feedback and accepting challenge with humility
+Sharing knowledge freely and helping others grow
+Focusing on practical outcomes, lasting value and responsible use of AI
+Recognising the work, expertise and contribution of others
+Collaborating openly and supporting fellow members where you can
+Knowing your limits and seeking help or deeper expertise when needed
+Taking responsibility for your words, actions and the outcomes you help create
+Putting the interests of the communities we serve ahead of personal advantage
 
-Examples of unacceptable behaviour include:
+**Behaviour that weakens the Guild is not acceptable. This includes:**
 
-- harassment, discrimination, or personal attacks
-- trolling, intimidation, or disruptive behaviour
-- posting sensitive or confidential information in public channels
-- using the Guild to push unrelated commercial agendas without consent
+Harassment, discrimination, intimidation or personal attacks
+Trolling, deliberately disruptive behaviour or undermining other members
+Presenting another person’s work, ideas or contribution as your own
+Sharing confidential, sensitive or private information without permission
+Knowingly promoting AI where it creates greater harm than benefit
+Using Guild relationships primarily for personal or commercial gain
+Competing for another member’s commercial opportunity without their knowledge
+Using the Guild’s name, reputation or channels to promote unrelated agendas without agreement
+Acting in a way that could damage trust in the Guild or the communities it serves
 
 ## Enforcement responsibilities
 
-Project maintainers are responsible for clarifying and enforcing our standards of acceptable behaviour and will take fair corrective action in response to any behaviour they deem inappropriate, threatening, offensive, or harmful.
+The Guild's Council are responsible for clarifying and enforcing our standards of acceptable behaviour and will take fair corrective action in response to any behaviour they deem inappropriate, threatening, offensive, or harmful.
 
 ## Scope
 
@@ -30,8 +44,25 @@ This Code of Conduct applies within all project spaces and in public behaviour w
 
 ## Enforcement
 
-If someone is subject to or witnesses unacceptable behaviour, they should report it to the project maintainers privately. All complaints will be reviewed and investigated promptly and fairly.
+If someone is subject to or witnesses unacceptable behaviour, they should report it to the Guild Council or a Guild Master privately. All complaints will be reviewed and investigated promptly and fairly.
 
-## Attribution
+## Master's Oath (Hippocratic oath remastered for the Manchester AI Guild)
 
-This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
+Do not make a solution worse for the public for the sake of using AI.
+Support another Master freely, as you also accept support.
+Mentor Practitioners and leave them stronger.
+Lecture at a public institution or conference and share knowledge generously.
+Use AI for growth, then for efficiency as necessary.
+Promote human creativity, with AI in support. Human beings, their livelihoods and their communities are the groups we serve.
+Know your limits, and seek deeper expertise from the Guild or beyond where needed.
+Understand the risks, limits and consequences of AI and automation in general.
+Remain accountable as a Master and for the Guild. Take responsibility and pride in the decisions and consequences we help to create.
+Strive for lasting impact. Favour what is useful over what is novel.
+Respect others’ work. Give due recognition to colleagues, creators and researchers within the Guild and beyond.
+Act with fiduciary responsibility toward the communities we serve. Never put our own financial gain or immediate advantage first.
+Keep learning. Regularly publish what you have learned and what has challenged you, and regularly contribute to the Manchester Way for the benefit of others.
+Promote the MAIG community where suitable. Do not compete against other members for commercial work without their knowledge.
+
+**A Master’s Oath:**
+“I commit to Mastery, Accountability, Impact and Generosity within the Manchester AI Guild. Using my limited knowledge humbly and wisely, sharing it freely, to serve our community, leaving people and organisations stronger than I found them.”
+
