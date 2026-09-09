@@ -1,5 +1,24 @@
 # Contributor Covenant Code of Conduct
 
+## Our Purpose
+
+Manchester AI Guild, purpose statement. \
+The Manchester AI Guild is a not-for-profit built to make AI work for good in Manchester and the UK.
+
+We grow individuals, strengthen solution providers and connect the Manchester ecosystem to drive lasting change through the responsible adoption of AI.
+
+We have two clear ambitions:
+
+1. Help SMEs and Enterprises adopt AI to drive growth, improve efficiency and solve real business problems. \
+2. Bring business, academia, government and the Tech community together to build the next generation of AI capability, solutions and talent needed to support that growth.
+
+
+Build capability. Create opportunity. Grow prosperity. Love people.
+
+Make Manchester the place where AI is not just talked about ... it gets done.
+
+
+
 ## Our pledge
 
 As members, contributors and leaders of the **Manchester AI Guild**, we commit to building an open, respectful and supportive community where people can learn, contribute, collaborate and grow.
