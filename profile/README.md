@@ -1,6 +1,6 @@
 # Manchester AI Guild
 
-The Manchester AI Guild brings together practitioners, founders, researchers, public-sector teams, and ecosystem partners to help organisations across Greater Manchester and the North West adopt AI with confidence — The Manchester Way to AI Value.
+The Manchester AI Guild brings together practitioners, founders, researchers, public-sector teams, and ecosystem partners to help organisations across Greater Manchester and the North West adopt AI with confidence. This is the Manchester Way to AI Value.
 
 ## Mission
 
@@ -12,11 +12,11 @@ The Guild exists to build real AI capability in the region: connecting those who
 
 ## Values
 
-- **Practicality** — we prioritise delivery over hype: working pilots, measurable outcomes, and usable artefacts.
-- **Transparency** — public work is open by default; decisions, documents, and progress are shared wherever possible.
-- **Safety and governance** — responsible implementation and pragmatic risk awareness underpin everything we do.
-- **Inclusivity** — we welcome contributors from industry, academia, the public sector, and the wider community.
-- **Regional impact** — our work is judged by the value it creates for Greater Manchester and the North West.
+- **Practicality**: we prioritise delivery over hype: working pilots, measurable outcomes, and usable artefacts.
+- **Transparency**: public work is open by default; decisions, documents, and progress are shared wherever possible.
+- **Safety and governance**: responsible implementation and pragmatic risk awareness underpin everything we do.
+- **Inclusivity**: we welcome contributors from industry, academia, the public sector, and the wider community.
+- **Regional impact**: our work is judged by the value it creates for Greater Manchester and the North West.
 
 ## What we do
 
@@ -58,4 +58,5 @@ Official Guild brand assets are held in a private, access-controlled `assets` re
 We welcome collaboration from people who want to help build practical, useful AI capability across the region.
 
 For public work, see the linked repositories and open issues. Internal operational planning remains restricted to approved Guild members and is not published publicly.
+
 
