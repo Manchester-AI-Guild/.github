@@ -60,3 +60,7 @@ We welcome collaboration from people who want to help build practical, useful AI
 For public work, see the linked repositories and open issues. Internal operational planning remains restricted to approved Guild members and is not published publicly.
 
 
+## Connect
+
+- Website: [www.manchesteraiguild.org](https://www.manchesteraiguild.org/)
+- LinkedIn: [Manchester AI Guild](https://www.linkedin.com/company/manchester-ai-guild)
