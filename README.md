@@ -87,6 +87,6 @@ This repository is for org-level defaults and profile content only. It should no
 ## 📁 Repository
 
 - Purpose: organisation profile (`profile/README.md`) and default community-health files (Code of Conduct, contributing guide, security policy, issue and PR templates) inherited by every Manchester-AI-Guild repository.
-- Owner: Edwin Luther (Council Chair)
+- Owner: Edwin Luther — Council, Governance & Ethics
 - Policies index: [website `docs/policies/README.md`](https://github.com/Manchester-AI-Guild/website/blob/main/docs/policies/README.md)
 - Only `main` exists; changes go through pull requests and the `secret-scan` check.
