@@ -56,7 +56,7 @@ This repo is the org-level configuration layer for:
 
 ## 📜 Policies
 
-Draft Guild policies are registered in the website repository at [`docs/policies/README.md`](https://github.com/Manchester-AI-Guild/website/blob/main/docs/policies/README.md); their status is **Draft, awaiting Council 10 Oct 2026**. The Code of Conduct here is a mirror of the canonical file in the operations repository; edit the canonical file and copy it here.
+Draft Guild policies are registered in the website repository at [`docs/policies/README.md`](https://github.com/Manchester-AI-Guild/website/blob/main/docs/policies/README.md) (private repository, members only); their status is **Draft, awaiting Council 10 Oct 2026**. The Code of Conduct here is a mirror of the canonical file in the operations repository; edit the canonical file and copy it here.
 
 ## 🏛️ Council and owners
 
@@ -88,5 +88,5 @@ This repository is for org-level defaults and profile content only. It should no
 
 - Purpose: organisation profile (`profile/README.md`) and default community-health files (Code of Conduct, contributing guide, security policy, issue and PR templates) inherited by every Manchester-AI-Guild repository.
 - Owner: Edwin Luther — Council, Governance & Ethics
-- Policies index: [website `docs/policies/README.md`](https://github.com/Manchester-AI-Guild/website/blob/main/docs/policies/README.md)
+- Policies index: [website `docs/policies/README.md`](https://github.com/Manchester-AI-Guild/website/blob/main/docs/policies/README.md) (private repository, members only)
 - Only `main` exists; changes go through pull requests and the `secret-scan` check.

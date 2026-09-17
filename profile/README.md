@@ -92,7 +92,7 @@ The Guild Council was proposed at the 28 August meeting and reviewed again at th
 
 ## 📜 Policies
 
-Draft Guild policies (code of conduct, privacy notice, responsible AI use, safeguarding and others) are registered at [website `docs/policies/README.md`](https://github.com/Manchester-AI-Guild/website/blob/main/docs/policies/README.md). Status: **Draft, awaiting Council 10 Oct 2026**. The Code of Conduct applies to all Guild spaces: [CODE_OF_CONDUCT.md](https://github.com/Manchester-AI-Guild/.github/blob/main/CODE_OF_CONDUCT.md).
+Draft Guild policies (code of conduct, privacy notice, responsible AI use, safeguarding and others) are registered at [website `docs/policies/README.md`](https://github.com/Manchester-AI-Guild/website/blob/main/docs/policies/README.md) (private repository, members only). Status: **Draft, awaiting Council 10 Oct 2026**. The Code of Conduct applies to all Guild spaces: [CODE_OF_CONDUCT.md](https://github.com/Manchester-AI-Guild/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ## 🔓 Public and private work
 
