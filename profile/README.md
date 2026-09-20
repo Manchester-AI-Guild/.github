@@ -82,13 +82,16 @@ The Guild Council was proposed at the 28 August meeting and reviewed again at th
 | Name | Council role |
 |---|---|
 | Adrian Quayle | President |
-| Mihran Hovnanian | Acting Chairman & Secretary |
+| Mihran Hovnanian | Chairman & Secretary |
 | Edwin Luther | Governance & Ethics |
 | Simon Ellis | Engagement & Projects Lead |
 | Fernando Torres | Community Lead & Events |
-| Trevor Roberts | AI Readiness Assessment Lead |
-| TBC | Treasurer (open) |
-| TBC | Marketing & Communications (open) |
+| Rufus Curnow | Marketing & Communications Lead |
+| Marek Kurczynski | Website & Platform |
+| Trevor Roberts | Council member |
+| Tom Parson | Council member |
+| Treasurer | Seat open |
+| Data Protection Lead | To be appointed |
 
 ## 📜 Policies
 
