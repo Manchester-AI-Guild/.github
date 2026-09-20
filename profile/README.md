@@ -104,19 +104,6 @@ Public repositories are used for mission, governance, community-facing updates, 
 
 Official Guild brand assets are held in a private, access-controlled `assets` repository, and only verified Guild council members may publish on behalf of the Guild. If you are unsure whether a communication, logo usage, or individual claiming to represent the Guild is legitimate, please verify via our official website at manchesteraiguild.org before engaging.
 
-## 🤝 Join and contribute
-
-We welcome collaboration from people who want to help build practical, useful AI capability across the region.
-
-For public work, see the linked repositories and open issues. Internal operational planning remains restricted to approved Guild members and is not published publicly.
-
-### How to contribute
-
-- **Join the Guild**: register interest at [www.manchesteraiguild.org/join](https://www.manchesteraiguild.org/join/).
-- **Contribute to public work**: read the [contributing guide](https://github.com/Manchester-AI-Guild/.github/blob/main/CONTRIBUTING.md), then open an issue or pull request in [manchester-ai-guild](https://github.com/Manchester-AI-Guild/manchester-ai-guild).
-- **Report a security problem**: follow the [security policy](https://github.com/Manchester-AI-Guild/.github/blob/main/SECURITY.md); do not open a public issue.
-- **Follow along**: [LinkedIn](https://www.linkedin.com/company/manchester-ai-guild) for public announcements.
-
 ## 🔗 Connect
 
 - Website: [www.manchesteraiguild.org](https://www.manchesteraiguild.org/)
