@@ -50,7 +50,7 @@ This repo is the org-level configuration layer for:
 |---|---|---|---|
 | 🏠 | [manchester-ai-guild](https://github.com/Manchester-AI-Guild/manchester-ai-guild) | Public | Public projects, working groups, and community collaboration: mission, purpose statement, operating model, participants, docs microsite |
 | 🌐 | [website](https://github.com/Manchester-AI-Guild/website) | Private | Source of [www.manchesteraiguild.org](https://www.manchesteraiguild.org/) and the draft policy register |
-| 🎨 | [assets](https://github.com/Manchester-AI-Guild/assets) | Private | Official brand assets; only verified Council members publish with them |
+| 🎨 | [assets](https://github.com/Manchester-AI-Guild/manchester-ai-guild-assets) | Private | Official brand assets; only verified Council members publish with them |
 | 🔒 | [manchester-ai-guild-operations](https://github.com/Manchester-AI-Guild/manchester-ai-guild-operations) | Private | Member-only planning, minutes, runbooks and the canonical policy sources |
 | ⚙️ | [.github](https://github.com/Manchester-AI-Guild/.github) | Public | This repository |
 
