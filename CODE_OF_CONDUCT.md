@@ -11,7 +11,7 @@ mirror of this file and must be updated whenever this file changes.
 
 The Manchester AI Guild is a community of AI practitioners, builders, and organisations across Greater Manchester and the North West, working to help the region adopt AI practically, responsibly, and with good governance.
 
-We, as Guild Members and Council Members, are against harassment, discrimination, and exclusionary behaviour of any kind. We pledge to make participation in the Guild a safe, respectful, and welcoming experience for everyone who takes part, whatever their background.
+We, as Guild Members and SLT Members, are against harassment, discrimination, and exclusionary behaviour of any kind. We pledge to make participation in the Guild a safe, respectful, and welcoming experience for everyone who takes part, whatever their background.
 
 Build capability. Create opportunity. Grow prosperity. Love people.
 
@@ -52,13 +52,13 @@ This Code of Conduct applies in all Guild spaces, and when an individual is offi
 - GitHub repositories at https://github.com/Manchester-AI-Guild and all repositories under this organisation
 - in-person meetups, talks, workshops and other Guild events, and any official social media used to represent them
 
-## Guild Members and Council Members
+## Guild Members and SLT Members
 
-Membership of the Guild (Apprentice, Practitioner, Master, and organisational membership) carries additional expectations set out in the membership pathway documents. Those documents reference this Code; this Code does not repeat them. Any statement of commitment for Master members (a "Master's Oath" has been drafted) is part of the membership pathway workstream and is not a condition of this Code until the Council ratifies it.
+Membership of the Guild (Apprentice, Practitioner, Master, and organisational membership) carries additional expectations set out in the membership pathway documents. Those documents reference this Code; this Code does not repeat them. Any statement of commitment for Master members (a "Master's Oath" has been drafted) is part of the membership pathway workstream and is not a condition of this Code until the SLT ratifies it.
 
 ## Conflicts of interest and commercial conduct
 
-Speakers, sponsors, and Council Members should disclose any financial or commercial interest, for example in a product, vendor, or employer, that is materially relevant to what they are presenting or discussing at a Guild event or in a Guild space. This extends the existing rule against pushing unrelated commercial agendas without consent: a disclosed interest is welcome, an undisclosed one is not.
+Speakers, sponsors, and SLT Members should disclose any financial or commercial interest, for example in a product, vendor, or employer, that is materially relevant to what they are presenting or discussing at a Guild event or in a Guild space. This extends the existing rule against pushing unrelated commercial agendas without consent: a disclosed interest is welcome, an undisclosed one is not.
 
 Where the Guild allocates paid opportunities to members, the business engagement allocation workflow applies and its conflict-of-interest rules take precedence.
 
@@ -72,9 +72,9 @@ For meetups, talks, and other in-person Guild events, in addition to the standar
 
 ## Enforcement responsibilities
 
-Members of the Manchester AI Guild Council are responsible for clarifying and enforcing our standards of acceptable behaviour, and will take fair, proportionate, and timely corrective action in response to any behaviour they deem inappropriate, threatening, offensive, or harmful.
+Members of the Manchester AI Guild SLT are responsible for clarifying and enforcing our standards of acceptable behaviour, and will take fair, proportionate, and timely corrective action in response to any behaviour they deem inappropriate, threatening, offensive, or harmful.
 
-The Governance & Ethics lead (Edwin Luther) is the first point of contact for reports and escalates to the Council. If a report concerns a Council member, it will be handled by an independent panel selected by the Council, rather than by the person the report is about, so that no one investigates a complaint made against themselves.
+The Governance & Ethics lead (Edwin Luther) is the first point of contact for reports and escalates to the SLT. If a report concerns a SLT member, it will be handled by an independent panel selected by the SLT, rather than by the person the report is about, so that no one investigates a complaint made against themselves.
 
 Personal data handled during a report is processed under the Guild's privacy and data governance policies. The Guild's data protection contact is Trevor Roberts (DPO).
 
@@ -90,13 +90,13 @@ All complaints will be reviewed and investigated promptly, fairly, and confident
 
 ## Enforcement guidelines
 
-The Council will follow these Community Impact Guidelines in determining the consequences for any action it deems in violation of this Code of Conduct.
+The SLT will follow these Community Impact Guidelines in determining the consequences for any action it deems in violation of this Code of Conduct.
 
 ### 1. Correction
 
 Community impact: use of inappropriate language or other behaviour deemed unprofessional or unwelcome in the community.
 
-Consequence: a private, written warning from the Council, providing clarity around the nature of the violation and an explanation of why the behaviour was inappropriate. A public apology may be requested.
+Consequence: a private, written warning from the SLT, providing clarity around the nature of the violation and an explanation of why the behaviour was inappropriate. A public apology may be requested.
 
 ### 2. Warning
 
@@ -118,7 +118,7 @@ Consequence: a permanent ban from any sort of public interaction within the comm
 
 ## Our values
 
-Guild Members and Council Members are encouraged to speak up if something falls short of this Code, and to listen if a concern is raised with them. Looking out for one another is everyone's responsibility, not only the Council's.
+Guild Members and SLT Members are encouraged to speak up if something falls short of this Code, and to listen if a concern is raised with them. Looking out for one another is everyone's responsibility, not only the SLT's.
 
 When unsure whether something crosses a line, ask: would this stand up to being open, honest, transparent, and fair to everyone involved?
 
@@ -126,5 +126,5 @@ When unsure whether something crosses a line, ask: would this stand up to being 
 
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
 
-Version 2.0. Effective on Council ratification (requested for the Council meeting on 10 Oct 2026); applied by default from 16 Sep 2026 until then. Next scheduled review: 12 months after ratification.
+Version 2.0. Effective on SLT ratification (requested for the SLT meeting on 10 Oct 2026); applied by default from 16 Sep 2026 until then. Next scheduled review: 12 months after ratification.
 
