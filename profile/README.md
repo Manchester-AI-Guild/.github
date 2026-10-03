@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://www.manchesteraiguild.org/"><img src="https://img.shields.io/badge/Website-manchesteraiguild.org-0F172A" alt="Website"></a>
   <a href="https://www.linkedin.com/company/manchester-ai-guild"><img src="https://img.shields.io/badge/LinkedIn-Manchester%20AI%20Guild-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/SLT--owned-Manchester%20AI%20Guild-F2C230" alt="SLT-owned">
+  <img src="https://img.shields.io/badge/Guild--owned-Manchester%20AI%20Guild%20Ltd-F2C230" alt="Guild-owned">
   <a href="https://github.com/Manchester-AI-Guild/manchester-ai-guild/actions/workflows/security-checks.yml"><img src="https://github.com/Manchester-AI-Guild/manchester-ai-guild/actions/workflows/security-checks.yml/badge.svg" alt="Security Checks"></a>
 </p>
 
