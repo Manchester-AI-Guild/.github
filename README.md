@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/Manchester-AI-Guild/.github/actions/workflows/security-checks.yml"><img src="https://github.com/Manchester-AI-Guild/.github/actions/workflows/security-checks.yml/badge.svg" alt="Security Checks"></a>
-  <img src="https://img.shields.io/badge/SLT--owned-Manchester%20AI%20Guild-F2C230" alt="SLT-owned">
+  <img src="https://img.shields.io/badge/Guild--owned-Manchester%20AI%20Guild%20Ltd-F2C230" alt="Guild-owned">
   <img src="https://img.shields.io/badge/Branch-main%20only-2563EB" alt="main only">
 </p>
 
