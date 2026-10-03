@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/Manchester-AI-Guild/.github/actions/workflows/security-checks.yml"><img src="https://github.com/Manchester-AI-Guild/.github/actions/workflows/security-checks.yml/badge.svg" alt="Security Checks"></a>
-  <img src="https://img.shields.io/badge/Council--owned-Manchester%20AI%20Guild-F2C230" alt="Council-owned">
+  <img src="https://img.shields.io/badge/SLT--owned-Manchester%20AI%20Guild-F2C230" alt="SLT-owned">
   <img src="https://img.shields.io/badge/Branch-main%20only-2563EB" alt="main only">
 </p>
 
@@ -50,19 +50,19 @@ This repo is the org-level configuration layer for:
 |---|---|---|---|
 | 🏠 | [manchester-ai-guild](https://github.com/Manchester-AI-Guild/manchester-ai-guild) | Public | Public projects, working groups, and community collaboration: mission, purpose statement, operating model, participants, docs microsite |
 | 🌐 | [website](https://github.com/Manchester-AI-Guild/website) | Private | Source of [www.manchesteraiguild.org](https://www.manchesteraiguild.org/) and the draft policy register |
-| 🎨 | [assets](https://github.com/Manchester-AI-Guild/manchester-ai-guild-assets) | Private | Official brand assets; only verified Council members publish with them |
+| 🎨 | [assets](https://github.com/Manchester-AI-Guild/manchester-ai-guild-assets) | Private | Official brand assets; only verified SLT members publish with them |
 | 🔒 | [manchester-ai-guild-operations](https://github.com/Manchester-AI-Guild/manchester-ai-guild-operations) | Private | Member-only planning, minutes, runbooks and the canonical policy sources |
 | ⚙️ | [.github](https://github.com/Manchester-AI-Guild/.github) | Public | This repository |
 
 ## 📜 Policies
 
-Draft Guild policies are registered in the website repository at [`docs/policies/README.md`](https://github.com/Manchester-AI-Guild/website/blob/main/docs/policies/README.md) (private repository, members only); their status is **Draft, awaiting Council 10 Oct 2026**. The Code of Conduct here is a mirror of the canonical file in the operations repository; edit the canonical file and copy it here.
+Draft Guild policies are registered in the website repository at [`docs/policies/README.md`](https://github.com/Manchester-AI-Guild/website/blob/main/docs/policies/README.md) (private repository, members only); their status is **Draft, awaiting SLT 10 Oct 2026**. The Code of Conduct here is a mirror of the canonical file in the operations repository; edit the canonical file and copy it here.
 
-## 🏛️ Council and owners
+## 🏛️ SLT and owners
 
-The Guild Council was proposed at the 28 August meeting and reviewed again at the 4 September Council meeting. The public roster is [participants-and-ecosystem.md](https://github.com/Manchester-AI-Guild/manchester-ai-guild/blob/main/docs/participants-and-ecosystem.md).
+The Guild SLT was proposed at the 28 August meeting and reviewed again at the 4 September SLT meeting. The public roster is [participants-and-ecosystem.md](https://github.com/Manchester-AI-Guild/manchester-ai-guild/blob/main/docs/participants-and-ecosystem.md).
 
-| Name | Council role |
+| Name | SLT role |
 |---|---|
 | Adrian Quayle | President |
 | Mihran Hovnanian | Chairman & Secretary |
@@ -71,10 +71,10 @@ The Guild Council was proposed at the 28 August meeting and reviewed again at th
 | Fernando Torres | Community Lead & Events |
 | Rufus Curnow | Marketing & Communications Lead |
 | Marek Kurczynski | Website & Platform |
-| Trevor Roberts | Council member |
-| Tom Parson | Council member |
-| Treasurer | Seat open |
-| Data Protection Lead | To be appointed |
+| Trevor Roberts | Data Protection Lead (DPO) |
+| Donald McKintosh | Treasurer |
+| Phil Davies | Organisational Development & Membership Lead |
+| Tom Parson | Events & Community Partnerships |
 
 ## 🛡️ Security and governance
 
@@ -90,6 +90,6 @@ This repository is for org-level defaults and profile content only. It should no
 ## 📁 Repository
 
 - Purpose: organisation profile (`profile/README.md`) and default community-health files (Code of Conduct, contributing guide, security policy, issue and PR templates) inherited by every Manchester-AI-Guild repository.
-- Owner: Edwin Luther — Council, Governance & Ethics
+- Owner: Edwin Luther — SLT, Governance & Ethics
 - Policies index: [website `docs/policies/README.md`](https://github.com/Manchester-AI-Guild/website/blob/main/docs/policies/README.md) (private repository, members only)
 - Only `main` exists; changes go through pull requests and the `secret-scan` check.

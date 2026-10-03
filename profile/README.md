@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://www.manchesteraiguild.org/"><img src="https://img.shields.io/badge/Website-manchesteraiguild.org-0F172A" alt="Website"></a>
   <a href="https://www.linkedin.com/company/manchester-ai-guild"><img src="https://img.shields.io/badge/LinkedIn-Manchester%20AI%20Guild-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Council--owned-Manchester%20AI%20Guild-F2C230" alt="Council-owned">
+  <img src="https://img.shields.io/badge/SLT--owned-Manchester%20AI%20Guild-F2C230" alt="SLT-owned">
   <a href="https://github.com/Manchester-AI-Guild/manchester-ai-guild/actions/workflows/security-checks.yml"><img src="https://github.com/Manchester-AI-Guild/manchester-ai-guild/actions/workflows/security-checks.yml/badge.svg" alt="Security Checks"></a>
 </p>
 
@@ -31,7 +31,7 @@ The Manchester AI Guild brings together practitioners, founders, researchers, pu
 | 🏠 | [manchester-ai-guild](https://github.com/Manchester-AI-Guild/manchester-ai-guild) | Mission, purpose statement, operating model, participants and the [docs microsite](https://manchester-ai-guild.github.io/manchester-ai-guild/) |
 | ⚙️ | [.github](https://github.com/Manchester-AI-Guild/.github) | This profile and the community-health defaults (Code of Conduct, contributing guide, security policy, templates) |
 | 🌐 | website (private) | Source of [www.manchesteraiguild.org](https://www.manchesteraiguild.org/) and the draft policy register |
-| 🎨 | assets (private) | Official brand assets, used only by verified Council members |
+| 🎨 | assets (private) | Official brand assets, used only by verified SLT members |
 | 🔒 | manchester-ai-guild-operations (private) | Member-only planning, minutes, runbooks and policy sources |
 
 ## 🎯 Mission
@@ -75,11 +75,11 @@ Many organisations want to adopt AI but do not yet have the internal capability,
 - shared documentation and reproducible artefacts
 - governance grounded in delivery reality rather than hype
 
-## 🏛️ Council
+## 🏛️ SLT
 
-The Guild Council was proposed at the 28 August meeting and reviewed again at the 4 September Council meeting. Founding Council members and consenting participants are listed in [participants-and-ecosystem.md](https://github.com/Manchester-AI-Guild/manchester-ai-guild/blob/main/docs/participants-and-ecosystem.md).
+The Guild SLT was proposed at the 28 August meeting and reviewed again at the 4 September SLT meeting. Founding SLT members and consenting participants are listed in [participants-and-ecosystem.md](https://github.com/Manchester-AI-Guild/manchester-ai-guild/blob/main/docs/participants-and-ecosystem.md).
 
-| Name | Council role |
+| Name | SLT role |
 |---|---|
 | Adrian Quayle | President |
 | Mihran Hovnanian | Chairman & Secretary |
@@ -88,14 +88,14 @@ The Guild Council was proposed at the 28 August meeting and reviewed again at th
 | Fernando Torres | Community Lead & Events |
 | Rufus Curnow | Marketing & Communications Lead |
 | Marek Kurczynski | Website & Platform |
-| Trevor Roberts | Council member |
-| Tom Parson | Council member |
-| Treasurer | Seat open |
-| Data Protection Lead | To be appointed |
+| Trevor Roberts | Data Protection Lead (DPO) |
+| Donald McKintosh | Treasurer |
+| Phil Davies | Organisational Development & Membership Lead |
+| Tom Parson | Events & Community Partnerships |
 
 ## 📜 Policies
 
-Draft Guild policies (code of conduct, privacy notice, responsible AI use, safeguarding and others) are registered at [website `docs/policies/README.md`](https://github.com/Manchester-AI-Guild/website/blob/main/docs/policies/README.md) (private repository, members only). Status: **Draft, awaiting Council 10 Oct 2026**. The Code of Conduct applies to all Guild spaces: [CODE_OF_CONDUCT.md](https://github.com/Manchester-AI-Guild/.github/blob/main/CODE_OF_CONDUCT.md).
+Draft Guild policies (code of conduct, privacy notice, responsible AI use, safeguarding and others) are registered at [website `docs/policies/README.md`](https://github.com/Manchester-AI-Guild/website/blob/main/docs/policies/README.md) (private repository, members only). Status: **Draft, awaiting SLT 10 Oct 2026**. The Code of Conduct applies to all Guild spaces: [CODE_OF_CONDUCT.md](https://github.com/Manchester-AI-Guild/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ## 🔓 Public and private work
 
@@ -105,7 +105,7 @@ Public repositories are used for mission, governance, community-facing updates, 
 
 ## 🛡️ Trust and authenticity
 
-Official Guild brand assets are held in a private, access-controlled `assets` repository, and only verified Guild council members may publish on behalf of the Guild. If you are unsure whether a communication, logo usage, or individual claiming to represent the Guild is legitimate, please verify via our official website at manchesteraiguild.org before engaging.
+Official Guild brand assets are held in a private, access-controlled `assets` repository, and only verified Guild SLT members may publish on behalf of the Guild. If you are unsure whether a communication, logo usage, or individual claiming to represent the Guild is legitimate, please verify via our official website at manchesteraiguild.org before engaging.
 
 ## 🔗 Connect
 
