@@ -36,11 +36,16 @@ The Manchester AI Guild brings together practitioners, founders, researchers, pu
 
 ## 🎯 Mission
 
-We help Greater Manchester and the wider North West turn AI from hype into practical value. Our focus is on connecting people who need support with people who can help them move from speculation to safe, useful implementation.
+The Manchester AI Guild is a not-for-profit built to make AI work for good in Manchester and the UK. We grow people, strengthen solution providers and connect the Manchester ecosystem to drive lasting change through the responsible adoption of AI.
 
-## 🧭 Purpose
+**Build capability. Create opportunity. Grow prosperity. Love people.**
 
-The Guild exists to build real AI capability in the region: connecting those who need support with those who can deliver it, and helping Greater Manchester play a leading role in the next Industrial Revolution.
+## 🧭 Two clear ambitions
+
+1. **Help SMEs and enterprises adopt AI** to drive growth, improve efficiency and solve real business problems.
+2. **Bring business, academia, government and the AI community together** to build the next generation of AI capability, solutions and talent needed to support that growth.
+
+Make Manchester a place where AI is not just talked about — it gets done.
 
 ## 💛 Values
 
@@ -83,7 +88,7 @@ The Guild SLT was proposed at the 28 August meeting and reviewed again at the 4 
 |---|---|
 | Adrian Quayle | President |
 | Mihran Hovnanian | Chairman & Secretary |
-| Edwin Luther | Governance & Ethics |
+| Edwin Luther | Governance & Ethics (interim Compliance) |
 | Simon Ellis | Engagement & Projects Lead |
 | Fernando Torres | Community Lead & Events |
 | Rufus Curnow | Marketing & Communications Lead |
