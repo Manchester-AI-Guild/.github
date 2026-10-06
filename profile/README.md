@@ -37,7 +37,7 @@ Build capability. Create opportunity. Grow prosperity. Love people.
 
 ## The Manchester Way: five foundations to AI readiness
 
-The Guild's method applies five foundations, in order: Strategy and process; Governance and IT; Data; Technology; People and knowledge. Each foundation carries one honest question, and a business starts with whichever it answers worst. Build all five and the result is the AI Supernova, the highest tier of AI readiness. Most businesses start at the lower levels, and nothing lights up until the stage below it holds.
+The Guild's method applies five foundations, in order: Strategy and Process; Governance, Compliance and IT; Data; Technology and Integration; People and Knowledge Adoption. Each foundation carries one honest question, and a business starts with whichever it answers worst. Build all five and the result is the AI Supernova, the highest tier of AI readiness. Most businesses start at the lower levels, and nothing lights up until the stage below it holds.
 
 The Guild's workshops run on The Manchester Way, taking teams through each foundation at the pace their readiness and constraints allow.
 
@@ -70,7 +70,7 @@ Make Manchester a place where AI is not just talked about. It gets done.
 | 🏠 | [manchester-ai-guild](https://github.com/Manchester-AI-Guild/manchester-ai-guild) | Mission, purpose statement, operating model, participants and the [docs microsite](https://manchester-ai-guild.github.io/manchester-ai-guild/) |
 | ⚙️ | [.github](https://github.com/Manchester-AI-Guild/.github) | This profile and the community-health defaults (Code of Conduct, contributing guide, security policy, templates) |
 | 🌐 | website (private) | Source of [www.manchesteraiguild.org](https://www.manchesteraiguild.org/) and the draft policy register |
-| 🎨 | assets (private) | Official brand assets, used only by verified SLT members |
+| 🎨 | manchester-ai-guild-assets (private) | Official brand assets, used only by verified SLT members |
 | 🔒 | manchester-ai-guild-operations (private) | Member-only planning, minutes, runbooks and policy sources |
 
 ## Senior Leadership Team
