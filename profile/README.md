@@ -81,14 +81,14 @@ The Guild SLT was proposed at the 28 August meeting and reviewed again at the 4 
 |---|---|
 | Adrian Quayle | President |
 | Mihran Hovnanian | Chairman & Secretary |
-| Edwin Luther | Governance, Risk & Compliance |
+| Edwin Luther | Risk & Governance Director |
 | Simon Ellis | Engagement & Projects Lead |
-| Fernando Torres | Community Lead & Events |
-| Rufus Curnow | Marketing & Communications Lead |
+| Fernando Torres | Events & Marketing Director |
+| Rufus Curnow | Communications Director |
 | Marek Kurczynski | Website & Platform |
-| Trevor Roberts | Data Protection Lead (DPO) |
-| Donald McKintosh | Treasurer |
-| Phil Davies | Organisational Development & Membership Lead |
+| Trevor Roberts | Data Protection Lead |
+| Donald McIntosh | Treasurer & CFO |
+| Phil Davies | Operations Director |
 | Tom Parson | Events & Community Partnerships |
 
 ## Policies

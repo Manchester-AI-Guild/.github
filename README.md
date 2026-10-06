@@ -66,14 +66,14 @@ The Guild SLT was proposed at the 28 August meeting and reviewed again at the 4 
 |---|---|
 | Adrian Quayle | President |
 | Mihran Hovnanian | Chairman & Secretary |
-| Edwin Luther | Governance, Risk & Compliance; owner of this repository |
+| Edwin Luther | Risk & Governance Director; owner of this repository |
 | Simon Ellis | Engagement & Projects Lead |
-| Fernando Torres | Community Lead & Events |
-| Rufus Curnow | Marketing & Communications Lead |
+| Fernando Torres | Events & Marketing Director |
+| Rufus Curnow | Communications Director |
 | Marek Kurczynski | Website & Platform |
-| Trevor Roberts | Data Protection Lead (DPO) |
-| Donald McKintosh | Treasurer |
-| Phil Davies | Organisational Development & Membership Lead |
+| Trevor Roberts | Data Protection Lead |
+| Donald McIntosh | Treasurer & CFO |
+| Phil Davies | Operations Director |
 | Tom Parson | Events & Community Partnerships |
 
 ## 🛡️ Security and governance
@@ -90,6 +90,6 @@ This repository is for org-level defaults and profile content only. It should no
 ## 📁 Repository
 
 - Purpose: organisation profile (`profile/README.md`) and default community-health files (Code of Conduct, contributing guide, security policy, issue and PR templates) inherited by every Manchester-AI-Guild repository.
-- Owner: Edwin Luther, Governance, Risk & Compliance
+- Owner: Edwin Luther, Risk & Governance Director
 - Policies index: [website `docs/policies/README.md`](https://github.com/Manchester-AI-Guild/website/blob/main/docs/policies/README.md) (private repository, members only)
 - Only `main` exists; changes go through pull requests and the `secret-scan` check.

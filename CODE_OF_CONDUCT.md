@@ -74,7 +74,7 @@ For meetups, talks, and other in-person Guild events, in addition to the standar
 
 Members of the Manchester AI Guild SLT are responsible for clarifying and enforcing our standards of acceptable behaviour, and will take fair, proportionate, and timely corrective action in response to any behaviour they deem inappropriate, threatening, offensive, or harmful.
 
-The Governance, Risk & Compliance lead (Edwin Luther) is the first point of contact for reports and escalates to the SLT. If a report concerns a SLT member, it will be handled by an independent panel selected by the SLT, rather than by the person the report is about, so that no one investigates a complaint made against themselves.
+The Risk & Governance Director (Edwin Luther) is the first point of contact for reports and escalates to the SLT. If a report concerns a SLT member, it will be handled by an independent panel selected by the SLT, rather than by the person the report is about, so that no one investigates a complaint made against themselves.
 
 Personal data handled during a report is processed under the Guild's privacy and data governance policies. The Guild's data protection contact is Trevor Roberts (DPO).
 
@@ -82,7 +82,7 @@ Personal data handled during a report is processed under the Guild's privacy and
 
 If someone is subject to or witnesses unacceptable behaviour, they should report it as soon as possible.
 
-- Privately to the Governance, Risk & Compliance lead, Edwin Luther, by Slack direct message or via LinkedIn.
+- Privately to the Risk & Governance Director, Edwin Luther, by Slack direct message or via LinkedIn.
 - Email: conduct@manchesteraiguild.org (to be created; the Guild has no mailbox yet, see the technology register. Until it exists, use the route above.)
 - Anonymous report: an anonymous form (Google Forms, per the tool comparison in docs/research) will be linked here once created.
 
