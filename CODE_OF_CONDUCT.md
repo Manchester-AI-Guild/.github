@@ -13,7 +13,7 @@ The Manchester AI Guild is a community of AI practitioners, builders, and organi
 
 We, as Guild Members and SLT Members, are against harassment, discrimination, and exclusionary behaviour of any kind. We pledge to make participation in the Guild a safe, respectful, and welcoming experience for everyone who takes part, whatever their background.
 
-Build capability. Create opportunity. Grow prosperity. Love people.
+Build capability. Create opportunity. Grow prosperity.
 
 ## Our standards
 
