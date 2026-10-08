@@ -80,6 +80,8 @@ The Guild SLT was proposed at the 28 August meeting and reviewed again at the 4 
 
 This repository is for org-level defaults and profile content only. It should not be used for storing secrets, credentials, or sensitive project data.
 
+Manchester AI Guild Ltd is registered with the Information Commissioner's Office as a data controller (registration ZC266348).
+
 ## 🤝 How to contribute
 
 - **Change a default file or the profile**: open a pull request against `main`; the `secret-scan` check must pass before merge. Changes here apply to every Guild repository that does not override the file.
