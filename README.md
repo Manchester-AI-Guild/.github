@@ -27,7 +27,7 @@ This repository stores the GitHub organization profile and the default community
 
 This is the organisation configuration layer for the Guild, and it is one of three: this repository holds organisation configuration, `manchester-ai-guild` holds public content, and `manchester-ai-guild-operations` holds private operations.
 
-- Owns: the organisation profile, the Code of Conduct that applies across all Guild repositories, issue and pull-request templates, and the default community-health files
+- Owns: the organisation profile, issue and pull-request templates, and the default community-health files. The Code of Conduct here is the published mirror; the canonical text is `policies/public/code-of-conduct.md` in `manchester-ai-guild-operations`
 - Does not own: public content, which lives in `manchester-ai-guild`; private operations and internal governance records, which live in `manchester-ai-guild-operations`
 - Review gate: before a change here is merged, it must stay consistent with both of those repositories
 
