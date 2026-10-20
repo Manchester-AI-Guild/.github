@@ -84,7 +84,7 @@ Personal data handled during a report is processed under the Guild's privacy and
 If someone is subject to or witnesses unacceptable behaviour, they should report it as soon as possible.
 
 - Privately to the Risk & Governance Director, Edwin Luther, by Slack direct message or via LinkedIn.
-- Email: conduct@manchesteraiguild.org (to be created; the Guild has no mailbox yet, see the technology register. Until it exists, use the route above.)
+- Email: report@manchesteraiguild.org (to be created; the Guild has no mailbox yet, see the technology register. Until it exists, use the route above.)
 - Anonymous report: an anonymous form (Google Forms, per the tool comparison in docs/research) will be linked here once created.
 
 All complaints will be reviewed and investigated promptly, fairly, and confidentially. You can expect an acknowledgement within 3 business days. The identity of the reporter, and the details of a report, will be kept confidential to the extent possible while an investigation is carried out, and no one will be retaliated against for reporting in good faith.
