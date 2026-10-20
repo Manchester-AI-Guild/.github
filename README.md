@@ -25,7 +25,7 @@ This repository stores the GitHub organization profile and the default community
 
 ## Review status and org-level boundary
 
-This is the organisation configuration layer for the Guild, and it is one of three: this repository holds organisation configuration, `manchester-ai-guild` holds public content, and `manchester-ai-guild-operations` holds private operations.
+This is the organisation configuration layer for the Guild, and it is one of five repositories: this repository (public) holds organisation configuration, `manchester-ai-guild` (public) holds public content, `manchester-ai-guild-operations` (private) holds private operations, `website` (private) is the source of www.manchesteraiguild.org and the draft policy register, and `manchester-ai-guild-assets` (private) holds official brand assets.
 
 - Owns: the organisation profile, issue and pull-request templates, and the default community-health files. The Code of Conduct here is the published mirror; the canonical text is `policies/public/code-of-conduct.md` in `manchester-ai-guild-operations`
 - Does not own: public content, which lives in `manchester-ai-guild`; private operations and internal governance records, which live in `manchester-ai-guild-operations`
@@ -36,7 +36,7 @@ This is the organisation configuration layer for the Guild, and it is one of thr
 | | File | What it is |
 |---|---|---|
 | 🏛️ | [`profile/README.md`](profile/README.md) | The organization profile shown at [github.com/Manchester-AI-Guild](https://github.com/Manchester-AI-Guild) |
-| 🤝 | [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Mirror of the canonical Code of Conduct (source: operations repository `policies/code-of-conduct.md`) |
+| 🤝 | [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Mirror of the canonical Code of Conduct (source: operations repository `policies/public/code-of-conduct.md`) |
 | 📝 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | Default contributing guide for every Guild repository |
 | 🛡️ | [`SECURITY.md`](SECURITY.md) | How to report a vulnerability |
 | 🧾 | [`ISSUE_TEMPLATE/`](ISSUE_TEMPLATE/), [`PULL_REQUEST_TEMPLATE.md`](PULL_REQUEST_TEMPLATE.md) | Default bug report, feature request and pull request templates |
