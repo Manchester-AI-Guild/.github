@@ -26,7 +26,7 @@ The Manchester AI Guild brings together practitioners, founders, researchers, pu
 
 ## Make AI work for good in Manchester
 
-The Manchester AI Guild is a not-for-profit built to make AI work for good in Manchester and the UK. We grow people, strengthen solution providers and connect the Manchester ecosystem to drive lasting change through the responsible adoption of AI.
+The Manchester AI Guild is a not-for-profit built to make AI work for good in Manchester and the UK. We grow people, strengthen solution providers and connect the Manchester ecosystem to drive lasting change through the ethical use of AI.
 
 Build capability. Create opportunity. Grow prosperity.
 
