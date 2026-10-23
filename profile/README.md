@@ -35,11 +35,28 @@ Build capability. Create opportunity. Grow prosperity.
 1. Help SMEs and enterprises adopt AI to drive growth, improve efficiency and solve real business problems.
 2. Bring business, academia, government and the AI community together to build the next generation of AI capability, solutions and talent needed to support that growth.
 
-## The Manchester Way: five foundations to AI readiness
+## The Manchester Way
 
-The Guild's method applies five foundations, in order: Strategy and Process; Governance, Compliance and IT; Data; Technology and Integration; People and Knowledge Adoption. Each foundation carries one honest question, and a business starts with whichever it answers worst. Build all five and the result is the AI Supernova, the highest tier of AI readiness. Most businesses start at the lower levels, and nothing lights up until the stage below it holds.
+The Manchester Way is the Manchester AI Guild's method for SMEs. It uses a band as the picture of a business. The core band is your product, your specialist expertise, your data, your systems, your commercial backing, your customers and their feedback. Each role comes with one plain question. The aim is the AI Supernova: the intent to amplify what makes your business exceptional through ethical, sustainable and human-centred AI. Keep what makes you distinctive, find where the performance goes wrong, and test one small change.
 
-The Guild's workshops run on The Manchester Way, taking teams through each foundation at the pace their readiness and constraints allow.
+The core band, in order:
+
+1. **Lead singer / songwriter**: the product or service and its distinctive voice. *What makes your offering yours?*
+2. **Lead guitarist**: specialist expertise, craft and innovation. *Which capabilities make you exceptional?*
+3. **Bass guitarist**: data. *Is your data reliable, accessible and understood?*
+4. **Sound engineer**: systems integration, quality and delivery. *Does the right information reach the right people?*
+5. **Record label**: commercial backing, investment and business model. *How do you fund and support your offering?*
+6. **Audience**: customers and users. *Who are you performing for?*
+7. **Reviews, applause and repeat bookings**: customer insight and measured results. *How do you hear the response?*
+
+**AI Supernova** is the intent to amplify what makes your business exceptional through ethical, sustainable and human-centred AI. It has positive cultural and financial impact: it pays back in people and in profit.
+
+The [microsite's Manchester Way section](https://manchester-ai-guild.github.io/manchester-ai-guild/#programmes) sets out the method in full.
+
+## Services
+
+- **SME Workshops**: The Manchester Way workshop, an afternoon (13:00 to 17:15) for SMEs with three exercises: the false notes, start your band, and improve one performance. Proposed dates: 18 November and 10 December 2026, at Ada, National College for Digital Skills. A one-company workshop runs the same method for a single organisation, in more depth.
+- **AI Consultancy**: help after the workshop, including setting up AI policies and working with a company's IT team, whose job is to keep data safe. The Guild's consultancy acts as an external critical friend, at the right time.
 
 ## Who we work with and how
 
@@ -93,7 +110,7 @@ The Guild SLT was proposed at the 28 August meeting and reviewed again at the 4 
 
 ## Policies
 
-Draft Guild policies (code of conduct, privacy notice, responsible AI use, safeguarding and others) are registered at [website `docs/policies/README.md`](https://github.com/Manchester-AI-Guild/website/blob/main/docs/policies/README.md) (private repository, members only). Status: **Draft, awaiting SLT 10 Oct 2026**. The Code of Conduct applies to all Guild spaces: [CODE_OF_CONDUCT.md](https://github.com/Manchester-AI-Guild/.github/blob/main/CODE_OF_CONDUCT.md).
+Draft Guild policies (code of conduct, privacy notice, responsible AI use, safeguarding and others) are registered at [website `docs/policies/README.md`](https://github.com/Manchester-AI-Guild/website/blob/main/docs/policies/README.md) (private repository, members only). Status: **Draft, under SLT review**. The Code of Conduct applies to all Guild spaces: [CODE_OF_CONDUCT.md](https://github.com/Manchester-AI-Guild/.github/blob/main/CODE_OF_CONDUCT.md).
 
 Manchester AI Guild Ltd is registered with the Information Commissioner's Office as a data controller (registration ZC266348).
 
