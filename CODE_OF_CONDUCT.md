@@ -111,7 +111,7 @@ A statement of commitment for Master members (a "Master's Oath") has been drafte
 
 ## 6. Procedure: how to report and what happens next
 
-1. **Report as soon as you can.** Email report@manchesteraiguild.com. It reaches the Risk & Governance Director, Edwin Luther. You may also message him on Slack or LinkedIn. You can write from an address that does not identify you, but we can only act on what we can verify. [To confirm: anonymous report form, once it exists]
+1. **Report as soon as you can.** Email report@manchesteraiguild.com. It reaches the Risk & Governance Director, Edwin Luther. You may also message him on Slack or LinkedIn. You can write from an address that does not identify you, but we can only act on what we can verify.
 2. **Acknowledgement within 5 working days.**
 3. **Investigation.** We review the report promptly, fairly and confidentially. We keep the reporter's identity and the details confidential as far as the investigation allows. Nobody is retaliated against for reporting in good faith.
 4. **Independence.** If a report concerns an SLT member, including the Risk & Governance Director, a panel of at least two SLT members not involved in the matter handles it. An external adviser chosen by the SLT can do so instead. Nobody investigates a complaint made against themselves.
