@@ -1,0 +1,51 @@
+name: Request an asset
+description: Ask for a logo, image, slide, icon, document or other material the Guild should provide.
+title: "[Asset]: "
+labels: ["asset-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tell us what you need and why. Please do not include personal data or private client material in this form. Anything you write here is public.
+  - type: dropdown
+    id: asset-type
+    attributes:
+      label: Type of asset
+      options:
+        - Logo or mark
+        - Image or graphic
+        - Slide or presentation
+        - Icon
+        - Document or template
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: what-you-need
+    attributes:
+      label: What do you need?
+      description: Describe the asset, including size, format and any wording it must carry.
+    validations:
+      required: true
+  - type: textarea
+    id: purpose
+    attributes:
+      label: Purpose and audience
+      description: What will the asset be used for, and who will see it?
+    validations:
+      required: true
+  - type: input
+    id: deadline
+    attributes:
+      label: Deadline (optional)
+      description: The date you need it by, or leave blank.
+      placeholder: "for example 14 November 2026"
+    validations:
+      required: false
+  - type: textarea
+    id: examples
+    attributes:
+      label: Examples or links (optional)
+      description: Links to existing material that shows the style or content you have in mind.
+    validations:
+      required: false
