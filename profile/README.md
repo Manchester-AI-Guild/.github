@@ -47,7 +47,6 @@ Public policies will be published on the Guild site after SLT sign-off. The [Cod
 | Adrian Quayle | President & Director |
 | Mihran Hovnanian | Chairman, Secretary & Director |
 | Edwin Luther | Risk & Governance Director |
-| Simon Ellis | Engagement & Projects Lead |
 | Fernando Torres | Events & Marketing Director |
 | Rufus Curnow | Communications Director |
 | Marek Kurczynski | Website & Platform |
