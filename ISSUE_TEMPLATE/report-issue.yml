@@ -37,7 +37,7 @@ body:
   - type: input
     id: contact
     attributes:
-      label: Contact (optional)
-      description: Leave blank if you prefer. If you add a name or email, it becomes public with this issue.
+      label: How to reach you (optional)
+      description: Your GitHub username already shows on the issue. Issues are public, so please do not post email addresses or phone numbers.
     validations:
       required: false
