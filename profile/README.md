@@ -1,98 +1,44 @@
-<!--
-  Design notes (17 September 2026).
-  Taken from github.com/Resourcio-Community/AI-ML-Resources: categorised link tables with
-  fixed columns and a link column per row; emoji-led section headings.
-  Taken from github.com/Resourcio-Community/Resourcio_Community-Website: centred logo header
-  with a shields.io badge row under it, section icons, social badges and a
-  "Getting involved" style contributing section.
--->
-
 <p align="center">
-  <a href="https://www.manchesteraiguild.org/"><img src="https://avatars.githubusercontent.com/u/319570462?v=4" alt="Manchester AI Guild" width="140"></a>
+  <a href="https://www.manchesteraiguild.org/"><img src="https://avatars.githubusercontent.com/u/319570462?v=4" alt="Manchester AI Guild" width="120"></a>
 </p>
 
 <h1 align="center">Manchester AI Guild</h1>
 
-<p align="center">A not-for-profit built to make AI work for good in Manchester and the UK. This is the Manchester Way to AI Value.</p>
+<p align="center"><strong>Build capability. Create opportunity. Grow prosperity.</strong></p>
 
-<p align="center">
-  <a href="https://www.manchesteraiguild.org/"><img src="https://img.shields.io/badge/Website-manchesteraiguild.org-0F172A" alt="Website"></a>
-  <a href="https://www.linkedin.com/company/manchester-ai-guild"><img src="https://img.shields.io/badge/LinkedIn-Manchester%20AI%20Guild-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Guild--owned-Manchester%20AI%20Guild%20Ltd-F2C230" alt="Guild-owned">
-  <a href="https://github.com/Manchester-AI-Guild/manchester-ai-guild/actions/workflows/security-checks.yml"><img src="https://github.com/Manchester-AI-Guild/manchester-ai-guild/actions/workflows/security-checks.yml/badge.svg" alt="Security Checks"></a>
-</p>
+## Who we are
 
-The Manchester AI Guild brings together practitioners, founders, researchers, public-sector teams and ecosystem partners to help organisations across Greater Manchester and the North West adopt AI with confidence. We work from practical delivery and clear governance so teams move from discussion to implementation grounded in real outcomes.
+The Manchester AI Guild is a not-for-profit. We help businesses in Greater Manchester and the North West adopt AI in practical and ethical ways.
 
-## Make AI work for good in Manchester
+We bring business, academia, government and the AI community together, so that AI work gets done here and is not just talked about.
 
-The Manchester AI Guild is a not-for-profit built to make AI work for good in Manchester and the UK. We grow people, strengthen solution providers and connect the Manchester ecosystem to drive lasting change through the ethical use of AI.
+## Our purpose
 
-Build capability. Create opportunity. Grow prosperity.
+> The Manchester AI Guild is a not-for-profit built to make AI work for good in Manchester and the UK. We grow people, strengthen solution providers and connect the Manchester ecosystem to drive lasting change through the ethical use of AI.
 
-## Two clear ambitions
+Our two missions:
 
-1. Help SMEs and enterprises adopt AI to drive growth, improve efficiency and solve real business problems.
-2. Bring business, academia, government and the AI community together to build the next generation of AI capability, solutions and talent needed to support that growth.
+- **Help businesses adopt AI.** Help SMEs and enterprises adopt AI to drive growth, improve efficiency and solve real business problems.
+- **Build Manchester's AI capability.** Bring business, academia, government and the AI community together to build the next generation of AI capability, solutions and talent.
 
-## The Manchester Way
+## What we offer
 
-The Manchester Way is the Manchester AI Guild's method for SMEs. It uses a band as the picture of a business. The core band is your product, your specialist expertise, your data, your systems, your commercial backing, your customers and their feedback. Each role comes with one plain question. The aim is the AI Supernova: the intent to amplify what makes your business exceptional through ethical, sustainable and human-centred AI. Keep what makes you distinctive, find where the performance goes wrong, and test one small change.
+- **SME Workshops.** An afternoon workshop, a workshop for one company, or an open session. Self-sponsored: your business funds its own place.
+- **AI Consultancy.** Practical help to apply AI safely in your organisation.
 
-The core band, in order:
+**The Manchester Way** is the Guild's practical method for helping small businesses adopt AI. Read the [AI Cookbook and other guides](https://manchester-ai-guild.github.io/manchester-ai-guild/downloads/) on the Downloads page.
 
-1. **Lead singer / songwriter**: the product or service and its distinctive voice. *What makes your offering yours?*
-2. **Lead guitarist**: specialist expertise, craft and innovation. *Which capabilities make you exceptional?*
-3. **Bass guitarist**: data. *Is your data reliable, accessible and understood?*
-4. **Sound engineer**: systems integration, quality and delivery. *Does the right information reach the right people?*
-5. **Record label**: commercial backing, investment and business model. *How do you fund and support your offering?*
-6. **Audience**: customers and users. *Who are you performing for?*
-7. **Reviews, applause and repeat bookings**: customer insight and measured results. *How do you hear the response?*
+## Get involved
 
-**AI Supernova** is the intent to amplify what makes your business exceptional through ethical, sustainable and human-centred AI. It has positive cultural and financial impact: it pays back in people and in profit.
+- Website: [manchesteraiguild.org](https://www.manchesteraiguild.org/)
+- LinkedIn: [Manchester AI Guild](https://www.linkedin.com/company/manchester-ai-guild)
+- Downloads: [guides, slides and logos](https://manchester-ai-guild.github.io/manchester-ai-guild/downloads/)
+- Email signature (for Guild members): [get the signature](https://manchester-ai-guild.github.io/manchester-ai-guild/email-signature/)
+- Front page repository: [manchester-ai-guild](https://github.com/Manchester-AI-Guild/manchester-ai-guild)
 
-The [microsite's Manchester Way section](https://manchester-ai-guild.github.io/manchester-ai-guild/#programmes) sets out the method in full.
-
-## Services
-
-- **SME Workshops**: The Manchester Way workshop, an afternoon (13:00 to 17:15) for SMEs with three exercises: the false notes, start your band, and improve one performance. Proposed dates: 18 November and 10 December 2026, at Ada, National College for Digital Skills. A one-company workshop runs the same method for a single organisation, in more depth.
-- **AI Consultancy**: help after the workshop, including setting up AI policies and working with a company's IT team, whose job is to keep data safe. The Guild's consultancy acts as an external critical friend, at the right time.
-
-## Who we work with and how
-
-We help SMEs, founders, public-sector teams and regional partners that want to adopt AI but lack the expertise, confidence or resources to do it well. We identify valuable use cases, understand risk and governance implications, connect people to trusted expertise, and move organisations from experimentation to measurable outcomes.
-
-Our role is to connect existing capabilities, not replace them. We help members and partners see where AI creates real operational value, where it should not be used, and how to implement it responsibly.
-
-## How we work
-
-Five values shape everything we do.
-
-- Delivery beats hype. Working pilots, measurable outcomes and usable artefacts matter more than abstract frameworks.
-- Open by default. Decisions, documents and progress are shared wherever possible.
-- Responsible implementation is non-negotiable. Pragmatic risk awareness and governance underpin everything we do.
-- Inclusion strengthens decisions. We welcome contributors from industry, academia, the public sector and beyond.
-- We measure success by the value we create for Greater Manchester and the North West.
-
-Our working model rests on concrete use cases, clear action ownership, shared documentation and governance grounded in delivery reality, not hype.
-
-Trust and authenticity matter. Official Guild brand assets are held in a private, access-controlled repository, and only verified Guild SLT members may publish on behalf of the Guild. If you are unsure whether a communication, logo usage or individual claiming to represent the Guild is legitimate, verify via our official website at manchesteraiguild.org.
-
-Make Manchester a place where AI is not just talked about. It gets done.
-
-## What's here
-
-| | Repository | What it holds |
-|---|---|---|
-| 🏠 | [manchester-ai-guild](https://github.com/Manchester-AI-Guild/manchester-ai-guild) | Mission, purpose statement, operating model, participants and the [docs microsite](https://manchester-ai-guild.github.io/manchester-ai-guild/) |
-| ⚙️ | [.github](https://github.com/Manchester-AI-Guild/.github) | This profile and the community-health defaults (Code of Conduct, contributing guide, security policy, templates) |
-| 🌐 | website (private) | Source of [www.manchesteraiguild.org](https://www.manchesteraiguild.org/) and the draft policy register |
-| 🎨 | manchester-ai-guild-assets (private) | Official brand assets, used only by verified SLT members |
-| 🔒 | manchester-ai-guild-operations (private) | Member-only planning, minutes, runbooks and policy sources |
+Public policies will be published on the Guild site after SLT sign-off. The [Code of Conduct](https://github.com/Manchester-AI-Guild/.github/blob/main/CODE_OF_CONDUCT.md) applies to all Guild spaces.
 
 ## Senior Leadership Team
-
-The Guild SLT was proposed at the 28 August meeting and reviewed again at the 4 September SLT meeting. Founding members and consenting participants are listed in [participants-and-ecosystem.md](https://github.com/Manchester-AI-Guild/manchester-ai-guild/blob/main/docs/participants-and-ecosystem.md).
 
 | Name | SLT role |
 |---|---|
@@ -108,13 +54,6 @@ The Guild SLT was proposed at the 28 August meeting and reviewed again at the 4 
 | Phil Davies | Operations Director |
 | Tom Parson | Events & Community Partnerships |
 
-## Policies
+---
 
-Draft Guild policies (code of conduct, privacy notice, responsible AI use, safeguarding and others) are registered at [website `docs/policies/README.md`](https://github.com/Manchester-AI-Guild/website/blob/main/docs/policies/README.md) (private repository, members only). Status: **Draft, under SLT review**. The Code of Conduct applies to all Guild spaces: [CODE_OF_CONDUCT.md](https://github.com/Manchester-AI-Guild/.github/blob/main/CODE_OF_CONDUCT.md).
-
-Manchester AI Guild Ltd is registered with the Information Commissioner's Office as a data controller (registration ZC266348).
-
-## Connect
-
-- Website: [www.manchesteraiguild.org](https://www.manchesteraiguild.org/)
-- LinkedIn: [Manchester AI Guild](https://www.linkedin.com/company/manchester-ai-guild)
+Manchester AI Guild Ltd · Company number 17490801 · ICO registration ZC266348
