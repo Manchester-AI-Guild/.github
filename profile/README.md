@@ -40,7 +40,7 @@ Public policies will be published on the Guild site after SLT sign-off. The [Cod
 
 ## Senior Leadership Team
 
-| Name | SLT role |
+| Name | Role |
 |---|---|
 | Adrian Quayle | President & Director |
 | Mihran Hovnanian | Chairman, Secretary & Director |
@@ -50,9 +50,9 @@ Public policies will be published on the Guild site after SLT sign-off. The [Cod
 | Rufus Curnow | Communications Director |
 | Marek Kurczynski | Website & Platform |
 | Trevor Roberts | Data Protection Lead |
+| Tom Parson | Events & Community Partnerships |
 | Donald McIntosh | Treasurer & CFO |
 | Phil Davies | Operations Director |
-| Tom Parson | Events & Community Partnerships |
 
 ---
 
