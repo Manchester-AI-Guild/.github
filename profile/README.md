@@ -96,8 +96,8 @@ The Guild SLT was proposed at the 28 August meeting and reviewed again at the 4 
 
 | Name | SLT role |
 |---|---|
-| Adrian Quayle | President |
-| Mihran Hovnanian | Chairman & Secretary |
+| Adrian Quayle | President & Director |
+| Mihran Hovnanian | Chairman, Secretary & Director |
 | Edwin Luther | Risk & Governance Director |
 | Simon Ellis | Engagement & Projects Lead |
 | Fernando Torres | Events & Marketing Director |
