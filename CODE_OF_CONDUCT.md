@@ -4,7 +4,7 @@
 
 Version: v3.0
 
-Status: Draft, awaiting the Senior Leadership Team (SLT)
+Status: Published, 2 November 2026
 
 This is the canonical Code of Conduct for the Manchester AI Guild. The copies on the Guild's GitHub .github repository and on manchesteraiguild.org are generated from this file.
 
@@ -35,13 +35,13 @@ Everyone this Code applies to confirms that they have read it and will follow it
 - when they take up an SLT role;
 - before a service provider starts work for the Guild.
 
-Confirmation is renewed every year. The Risk & Governance Director keeps the record of confirmations.
+Confirmation is renewed every year. Attestations will be recorded in a Notion database. The details will be confirmed when membership opens (Website & Platform lead).
 
 ## 4. Roles and responsibilities
 
 - Everyone this Code applies to follows it and confirms this under section 3.
 - The Senior Leadership Team (SLT) approves this Code and each review of it, and decides any breach under section 6.
-- The Risk & Governance Director, Edwin Luther, receives concerns and keeps the attestation record. The Data Protection Lead, Trevor Roberts, acts as secondary and advises on personal data.
+- The Risk & Governance Director, Edwin Luther, receives concerns. The Data Protection Lead, Trevor Roberts, acts as secondary and advises on personal data.
 
 ## 5. Procedure: raising a concern
 
