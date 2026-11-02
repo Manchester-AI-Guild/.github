@@ -1,0 +1,43 @@
+name: Report an issue
+description: Tell us something is wrong on a Guild repository or page, such as a broken link, wrong text or an error.
+title: "[Issue]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for flagging this. Please do not include passwords, personal data or private client material in this form. Anything you write here is public.
+  - type: textarea
+    id: what-is-wrong
+    attributes:
+      label: What is wrong?
+      description: Describe the problem in a few sentences.
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where is it?
+      description: The repository name and a link to the page, file or line.
+      placeholder: "for example manchester-ai-guild and https://..."
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened instead?
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact (optional)
+      description: Leave blank if you prefer. If you add a name or email, it becomes public with this issue.
+    validations:
+      required: false
