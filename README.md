@@ -75,7 +75,6 @@ The Guild SLT was proposed at the 28 August meeting and reviewed again at the 4 
 | Adrian Quayle | President |
 | Mihran Hovnanian | Chairman & Secretary |
 | Edwin Luther | Risk & Governance Director; owner of this repository |
-| Simon Ellis | Engagement & Projects Lead |
 | Fernando Torres | Events & Marketing Director |
 | Rufus Curnow | Communications Director |
 | Marek Kurczynski | Website & Platform |
