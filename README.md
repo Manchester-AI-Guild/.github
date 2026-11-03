@@ -57,14 +57,14 @@ This repo is the org-level configuration layer for:
 | | Repository | Visibility | What it holds |
 |---|---|---|---|
 | 🏠 | [manchester-ai-guild](https://github.com/Manchester-AI-Guild/manchester-ai-guild) | Public | Public projects, working groups, and community collaboration: mission, purpose statement, operating model, participants, docs microsite |
-| 🌐 | [website](https://github.com/Manchester-AI-Guild/website) | Private | Source of [www.manchesteraiguild.org](https://www.manchesteraiguild.org/) and the draft policy register |
-| 🎨 | [assets](https://github.com/Manchester-AI-Guild/manchester-ai-guild-assets) | Private | Official brand assets; only verified SLT members publish with them |
-| 🔒 | [manchester-ai-guild-operations](https://github.com/Manchester-AI-Guild/manchester-ai-guild-operations) | Private | Member-only planning, minutes, runbooks and the canonical policy sources |
+| 🌐 | website | Private | Source of [www.manchesteraiguild.org](https://www.manchesteraiguild.org/) and the draft policy register |
+| 🎨 | assets | Private | Official brand assets; only verified SLT members publish with them |
+| 🔒 | manchester-ai-guild-operations | Private | Member-only planning, minutes, runbooks and the canonical policy sources |
 | ⚙️ | [.github](https://github.com/Manchester-AI-Guild/.github) | Public | This repository |
 
 ## 📜 Policies
 
-Draft Guild policies are registered in the website repository at [`docs/policies/README.md`](https://github.com/Manchester-AI-Guild/website/blob/main/docs/policies/README.md) (private repository, members only); their status is **Draft, awaiting SLT 10 Oct 2026**. The Code of Conduct here is a mirror of the canonical file in the operations repository; edit the canonical file and copy it here.
+Draft Guild policies are registered in the website repository at `docs/policies/README.md` (private repository, members only); their status is **Draft, awaiting SLT 10 Oct 2026**. The Code of Conduct here is a mirror of the canonical file in the operations repository; edit the canonical file and copy it here.
 
 ## 🏛️ SLT and owners
 
@@ -100,5 +100,5 @@ Manchester AI Guild Ltd is registered with the Information Commissioner's Office
 
 - Purpose: organisation profile (`profile/README.md`) and default community-health files (Code of Conduct, contributing guide, security policy, issue and PR templates) inherited by every Manchester-AI-Guild repository.
 - Owner: Edwin Luther, Risk & Governance Director
-- Policies index: [website `docs/policies/README.md`](https://github.com/Manchester-AI-Guild/website/blob/main/docs/policies/README.md) (private repository, members only)
+- Policies index: website `docs/policies/README.md` (private repository, members only)
 - Only `main` exists; changes go through pull requests and the `secret-scan` check.
