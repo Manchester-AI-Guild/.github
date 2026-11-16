@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/Manchester-AI-Guild/.github/actions/workflows/security-checks.yml"><img src="https://github.com/Manchester-AI-Guild/.github/actions/workflows/security-checks.yml/badge.svg" alt="Security Checks"></a>
-  <img src="https://img.shields.io/badge/Guild--owned-Manchester%20AI%20Guild%20Ltd-F2C230" alt="Guild-owned">
+  <img src="https://img.shields.io/badge/Guild--owned-AI%20Guild%20Limited-F2C230" alt="Guild-owned">
   <img src="https://img.shields.io/badge/Branch-main%20only-2563EB" alt="main only">
 </p>
 
@@ -75,7 +75,6 @@ The Guild SLT was proposed at the 28 August meeting and reviewed again at the 4 
 | Adrian Quayle | President |
 | Mihran Hovnanian | Chairman & Secretary |
 | Edwin Luther | Risk & Governance Director; owner of this repository |
-| Fernando Torres | Events & Marketing Director |
 | Rufus Curnow | Communications Director |
 | Marek Kurczynski | Website & Platform |
 | Trevor Roberts | Data Protection Lead |

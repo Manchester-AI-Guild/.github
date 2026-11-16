@@ -47,7 +47,6 @@ Public policies will be published on the Guild site after SLT sign-off. The [Cod
 | Adrian Quayle | President & Director |
 | Mihran Hovnanian | Chairman, Secretary & Director |
 | Edwin Luther | Risk & Governance Director |
-| Fernando Torres | Events & Marketing Director |
 | Rufus Curnow | Communications Director |
 | Marek Kurczynski | Website & Platform |
 | Trevor Roberts | Data Protection Lead |
@@ -58,3 +57,5 @@ Public policies will be published on the Guild site after SLT sign-off. The [Cod
 ---
 
 Manchester AI Guild Ltd · Company number 17490801 · ICO registration ZC266348
+
+Manchester AI Guild is a trading name of AI Guild Limited (company number 17540480).
