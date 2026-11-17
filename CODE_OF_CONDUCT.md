@@ -61,7 +61,7 @@ We review this Code as often as is reasonable, and at least once every 12 months
 
 ## 9. Related policies
 
-Membership terms · Complaints and data rights procedure · Speaking up policy · Conflicts of interest policy · Privacy notice · Safeguarding policy · Equality, diversity and inclusion policy
+Membership terms · Complaints and data rights procedure · Speaking up policy · Conflicts of interest policy · Privacy policy · Safeguarding policy · Equality, diversity and inclusion policy
 
 ## 10. References
 
