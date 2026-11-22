@@ -35,7 +35,6 @@ We have two ambitions:
 - Website: [manchesteraiguild.org](https://www.manchesteraiguild.org/)
 - LinkedIn: [Manchester AI Guild](https://www.linkedin.com/company/manchester-ai-guild)
 - Downloads: [guides, slides and logos](https://manchester-ai-guild.github.io/manchester-ai-guild/downloads/)
-- Email signature (for Guild members): [get the signature](https://manchester-ai-guild.github.io/manchester-ai-guild/email-signature/)
 - Front page repository: [manchester-ai-guild](https://github.com/Manchester-AI-Guild/manchester-ai-guild)
 
 Public policies will be published on the Guild site after SLT sign-off. The [Code of Conduct](https://github.com/Manchester-AI-Guild/.github/blob/main/CODE_OF_CONDUCT.md) applies to all Guild spaces.
