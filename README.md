@@ -56,7 +56,7 @@ This repo is the org-level configuration layer for:
 
 | | Repository | Visibility | What it holds |
 |---|---|---|---|
-| 🏠 | [manchester-ai-guild](https://github.com/Manchester-AI-Guild/manchester-ai-guild) | Public | Public projects, working groups, and community collaboration: mission, purpose statement, operating model, participants, docs microsite |
+| 🏠 | [manchester-ai-guild](https://github.com/Manchester-AI-Guild/manchester-ai-guild) · [public home](https://manchester-ai-guild.github.io/manchester-ai-guild/#top) | Public | Public projects, working groups, and community collaboration: mission, purpose statement, operating model, participants, docs microsite |
 | 🌐 | website | Private | Source of [www.manchesteraiguild.org](https://www.manchesteraiguild.org/) and the draft policy register |
 | 🎨 | assets | Private | Official brand assets; only verified SLT members publish with them |
 | 🔒 | manchester-ai-guild-operations | Private | Member-only planning, minutes, runbooks and the canonical policy sources |
